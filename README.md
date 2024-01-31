@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfernandesrosa&show_icons=true&locale=en&layout=compact" alt="lucasfernandesrosa" /></p>
 
 
-<--
+<!---
 - 👋 Hi, I’m @LucasFernandesRosa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -36,7 +36,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->
 <!---
 LucasFernandesRosa/LucasFernandesRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
